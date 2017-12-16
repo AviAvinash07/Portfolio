@@ -5,6 +5,6 @@ Just download or clone the zip file, unzip it and click on html file and see the
 ## Prerequisites
 One software either atom or sublime text editor is needed to view the html, css, js files
 ## Built with
--Atom
+- Atom
 ## Author
--Avinash.DV
+- Avinash.DV
